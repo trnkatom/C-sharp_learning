@@ -8,5 +8,7 @@ namespace VS_GitHub_test
 {
     class Person
     {
+        public string Name { get; set; }
+        public string Address { get; set; }
     }
 }
